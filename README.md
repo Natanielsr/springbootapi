@@ -1,5 +1,5 @@
 # springbootapi
-Projeto de API RESTfull com modelo de maturidade de Leonard Richardson utilizando Spring Boot com metodos POST GET PUT DELETE para fazer um CRUD de produtos em um banco de dados Postgre 
+RESTfull API project with Leonard Richardson's maturity model using Spring Boot with POST GET PUT DELETE methods to create a CRUD of products in a Postgre database
 
 ![Example 1](/imgs/post_validated.JPG)
 ![Example 2](/imgs/get_all.JPG)
